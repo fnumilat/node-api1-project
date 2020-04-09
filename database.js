@@ -2,7 +2,7 @@ let users = [
     { id: "1", name: "John Smith", bio: "22 years old from New York New York" },
     { id: "2", name: "David Jones", bio: "45 years old from Seatle Washington" },
     { id: "3", name: "Michael Johnson", bio: "32 years old from Dallas Texas" },
-    { id: "4", name: "Chris Lee", bio: "23 years old from Sanfrancisco California" }
+    { id: "4", name: "Chris Lee", bio: "23 years old from Sanfrancisco California"}
 ]
 
 function getUsers() {
